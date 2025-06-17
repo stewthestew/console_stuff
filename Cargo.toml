@@ -1,0 +1,9 @@
+[package]
+name = "console_stuff"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+console = "0.15.11"
+dialoguer = "0.11.0"
+indicatif = "0.17.11"
