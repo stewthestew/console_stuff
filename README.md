@@ -7,7 +7,7 @@ Convenient re-exports of indicatif, console, dialoguer and clap
 Just add this to your `Cargo.toml` file
 ```toml
 [dependencies]
-console_stuff = "0.2.0"
+console_stuff = "0.2.1"
 ```
 or
 ```toml
